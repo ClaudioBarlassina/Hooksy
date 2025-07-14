@@ -1,0 +1,21 @@
+ /* Responsive general  */
+
+
+@media (max-width: 550px) {
+
+    /* NAVBAR */
+    .nav-general{
+       ul {
+         display: none;
+       }
+       .icono-hamburger {
+         display: flex;
+         margin-right: 20px;
+         font-size: 25px;
+       }
+     }
+
+/* HERO */
+
+    
+} 

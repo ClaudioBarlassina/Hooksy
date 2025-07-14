@@ -1,0 +1,18 @@
+/* subcomponentes */
+.butonprimario {
+  height: 30px;
+  width: 150px;
+  border: transparent;
+}
+.enlasesprimarios {
+  border: transparent;
+  padding: 5px;
+  text-decoration-line: none;
+  color: black;
+  border-radius: 10px;
+  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+.enlasesprimarios:hover {
+  background-color: var(--persian-green);
+  color: white;
+}
