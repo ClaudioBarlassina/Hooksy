@@ -1,12 +1,56 @@
-# React + Vite
+# 🛍️ Hooksy | eCommerce Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page web desarrollada como **proyecto realizado**, orientada a la presentación y venta de un eCommerce, con foco en diseño, claridad del mensaje y experiencia de usuario.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:**  
+https://hooksy-seven.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- CSS
+- JavaScript
+- Vercel
+
+---
+
+## ✨ Funcionalidades
+
+- Landing page de venta
+- Presentación de marca y propuesta de valor
+- Secciones informativas de productos
+- Llamados a la acción (CTA)
+- Diseño responsive
+- Optimizada para visualización en desktop y mobile
+- Aplicación desplegada en producción
+
+---
+
+## 📌 Sobre el proyecto
+
+Este repositorio corresponde a un **trabajo realizado** y se presenta con fines de **portafolio**.
+
+> No contiene lógica de compra, pasarela de pago ni manejo de datos reales.  
+> El proyecto no está pensado para clonarse ni ejecutarse localmente.
+
+---
+
+## 🚀 Estado
+
+- ✅ Proyecto finalizado  
+- 🌐 Deploy en producción  
+
+---
+
+## 👤 Autor
+
+**Claudio Barlassina**  
+Desarrollador Web Full-Stack  
+
+GitHub: https://github.com/ClaudioBarlassina
+
+
+
